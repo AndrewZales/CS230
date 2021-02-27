@@ -1,3 +1,6 @@
+<?php
+require 'includes/header.php'
+?>
 <main>
   <Link rel="stylesheet" href="css/about.css">
 

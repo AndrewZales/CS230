@@ -23,10 +23,10 @@ require 'includes?header.php';
                         <img class="d-block mx-auto" src=".images/2" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block mx-auto" src="images/3" alt="Third slide">
+                        <img class="d-block w-100" src="images/3" alt="Third slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block mx-auto" src="images/3" alt="Fourth slide">
+                        <img class="d-block w-100" src="images/3" alt="Fourth slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
